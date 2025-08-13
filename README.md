@@ -27,19 +27,22 @@ This **municipal fiber converter** is ideal for:
 
 ---
 
-## Technical Specifications
+## VERSITRON M7260A Gigabit Media Converter – Technical Specifications
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON City Surveillance System Converter |
-| Fiber Type | Multimode to Singlemode |
-| Connectors | ST to SC fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC |
-| Operating Temp | -10°C to 60°C |
+| Specification          | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **Model**              | M7260A                                                                      |             |
+| **SFP Compatibility**  | Supports 1000Base-SX/LX SFP modules (sold separately)                        |
+| **Distance Support**   | Up to 100 km (depending on SFP module)                                      |
+| **Data Rate**          | 10/100/1000 Mbps (Auto-negotiation)                                         |
+| **Duplex Mode**        | Full/Half-Duplex (Auto-negotiation)                                         |
+| **Flow Control**       | IEEE 802.3x Pause Frame (Full-Duplex), Back Pressure (Half-Duplex)           |
+| **Power Input**        | 9~52V DC, Auto-sensing                                                      |
+| **Power Consumption**  | 9 Watts (Full Load)                                                         |
+| **Mounting Options**   | Standalone, DIN Rail, or MCC-14R Chassis                                    |
+| **Operating Temp.**    | 0°C to 55°C                                                                  |
+| **Storage Temp.**      | -40°C to 85°C                                                                |
+| **Humidity**           | 5% to 90% non-condensing                                                    |
 
 ---
 
